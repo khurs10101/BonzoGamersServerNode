@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://khurshidTestDB:9435324293@freecluster-d6uok.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysupersecrettoken"
+}
